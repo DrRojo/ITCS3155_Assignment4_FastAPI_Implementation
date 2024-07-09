@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87b4b847-0ade-4d23-90e1-80dacc9e30ba" name="Changes" comment="Add version of main.py to conform to Part2 instructions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="87b4b847-0ade-4d23-90e1-80dacc9e30ba" name="Changes" comment="Add version of main.py to conform to Part2 instructions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,7 @@
       <updated>1720487625286</updated>
       <workItem from="1720487626348" duration="9000" />
       <workItem from="1720490450592" duration="745000" />
-      <workItem from="1720491223673" duration="2389000" />
+      <workItem from="1720491223673" duration="2764000" />
     </task>
     <task id="LOCAL-00001" summary="Initial setup">
       <option name="closed" value="true" />
@@ -132,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720493404314</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add version of main.py to conform to Part2 instructions">
+      <option name="closed" value="true" />
+      <created>1720493650456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720493650456</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
