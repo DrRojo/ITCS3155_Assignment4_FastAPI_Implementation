@@ -65,7 +65,10 @@
     &quot;ChangesTree.GroupingKeys&quot;: []
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.127.0.0.1:8000">
+    <configuration name="127.0.0.1:8000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8000">
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITCS3155_Assignment4_FastAPI_Implementation" />
       <option name="ENV_FILES" value="" />
@@ -91,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.127.0.0.1:8000" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
